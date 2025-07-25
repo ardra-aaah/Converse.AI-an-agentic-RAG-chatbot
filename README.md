@@ -45,7 +45,7 @@ OpenAI API Key (or HuggingFace)
 Installation
 
 Clone the repository
-bashgit clone https://github.com/yourusername/spanner-ai-rag.git
+bashgit clone https://github.com/yourusername/converse.ai.git
 cd spanner-ai-rag
 
 Backend Setup
