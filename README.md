@@ -27,7 +27,7 @@ graph TD
     C --> F[Vector Store]
     D --> F
     E --> G[Language Model]
-
+```
 ## Agent Responsibilities
 
 🔄 CoordinatorAgent: Orchestrates workflow and manages MCP message routing
