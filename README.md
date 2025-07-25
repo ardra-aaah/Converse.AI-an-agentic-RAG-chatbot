@@ -30,10 +30,10 @@ graph TD
 ```
 ## Agent Responsibilities
 
-🔄 CoordinatorAgent: Orchestrates workflow and manages MCP message routing
-📄 IngestionAgent: Parses and preprocesses documents into chunks
-🔍 RetrievalAgent: Handles embeddings and semantic search
-🧠 LLMResponseAgent: Generates contextual responses using retrieved information
+ CoordinatorAgent: Orchestrates workflow and manages MCP message routing 
+ IngestionAgent: Parses and preprocesses documents into chunks
+ RetrievalAgent: Handles embeddings and semantic search
+ LLMResponseAgent: Generates contextual responses using retrieved information
 
 ## Quick Start
 Prerequisites
