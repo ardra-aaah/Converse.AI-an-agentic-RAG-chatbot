@@ -7,7 +7,7 @@
 
 An intelligent multi-agent RAG (Retrieval-Augmented Generation) chatbot that processes multiple document formats using Model Context Protocol (MCP) for seamless agent communication.
 
-## 🌟 Features
+##  Features
 
 - **Multi-Format Document Support**: PDF, PPTX, CSV, DOCX, TXT, Markdown
 - **Agentic Architecture**: 3+ specialized agents with MCP communication
@@ -16,7 +16,7 @@ An intelligent multi-agent RAG (Retrieval-Augmented Generation) chatbot that pro
 - **Multi-turn Conversations**: Context-aware dialogue system
 - **Source Attribution**: View document sources for each response
 
-## 🏗️ Architecture
+##  Architecture
 
 ```mermaid
 graph TD
